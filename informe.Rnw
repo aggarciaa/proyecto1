@@ -7,8 +7,7 @@ Hola mundo aqui de nuevo con git
 
 <<>>=
 2+2
-a <- c(1,2,3)
-a
+3+5
 @
 yo no quiero generar conlicto en git
 
