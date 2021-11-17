@@ -4,6 +4,10 @@
 \SweaveOpts{concordance=TRUE}
 
 Hola mundo aqui de nuevo con git 
+<<>>=
+2+2
+@
+
 
 <<>>=
 2+2
